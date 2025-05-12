@@ -1,4 +1,4 @@
-# Color Breather
+# Color Breather (Flutter APP)
 
 Color Breather is a simple yet powerful Flutter application designed to guide users through a calming 4-4-8 breathing exercise 
 using animated color transitions and motion. Ideal for reducing anxiety and improving focus.
