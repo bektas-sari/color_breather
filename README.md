@@ -16,10 +16,6 @@ using animated color transitions and motion. Ideal for reducing anxiety and impr
 * Responsive and centered UI for various screen sizes
 * Built with Flutter's `TweenAnimationBuilder`, `ScaleTransition`, and `AnimatedSwitcher`
 
-## 📱 Screenshots
-
-*(Insert screenshots here if available)*
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -30,7 +26,7 @@ using animated color transitions and motion. Ideal for reducing anxiety and impr
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/color_breather.git
+git clone https://github.com/bektas-sari/color_breather.git
 cd color_breather
 flutter pub get
 flutter run
@@ -54,10 +50,9 @@ This app is inspired by the 4-4-8 breathing technique used in mindfulness practi
 
 ## 📄 License
 
-MIT License
+MIT License.
 
 ---
 
-> Take a breath. Relax your mind. Let the colors guide you.
 
 
